@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#joshua{
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
